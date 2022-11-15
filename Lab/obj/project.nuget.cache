@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Je64flfE0Y92nt5yF1To299++060e9uJbkBIcAxk6cnbB/oQa2J1BbuENZUMuMUxWDNoToyTzOmhpX7ymZEtwg==",
+  "dgSpecHash": "HJQ5L6i5dwun8+l3mClxBQ+S1FZRfM0jupH6IKQISesrQw2xd9TIyX/oUxgM3MQ7NHQWCtBXj9g3AAt9+sHypQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\emsgard.johan\\Programering 2\\Lab\\Lab\\Lab.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\emsgard.johan\\Programering 2\\Lab\\Lab\\Lab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emsgard.johan\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
